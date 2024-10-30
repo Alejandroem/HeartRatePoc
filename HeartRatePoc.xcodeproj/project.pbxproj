@@ -18,6 +18,7 @@
 		FA493F2E2CCD16810088B839 /* HeartRateMonitor WatchKit Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = FA493F212CCD167C0088B839 /* HeartRateMonitor WatchKit Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		FA493F3A2CCD18B40088B839 /* WatchManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA493F392CCD18B40088B839 /* WatchManager.swift */; };
 		FA493F3B2CCD1A020088B839 /* HealthKitManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA493F372CCD18130088B839 /* HealthKitManager.swift */; };
+		FA8FE1ED2CD2BF83005DBBCB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8FE1EC2CD2BF83005DBBCB /* SceneDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		FA493F362CCD16FB0088B839 /* HeartRateMonitor-WatchKit-Watch-App-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "HeartRateMonitor-WatchKit-Watch-App-Info.plist"; sourceTree = SOURCE_ROOT; };
 		FA493F372CCD18130088B839 /* HealthKitManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKitManager.swift; sourceTree = "<group>"; };
 		FA493F392CCD18B40088B839 /* WatchManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchManager.swift; sourceTree = "<group>"; };
+		FA8FE1EC2CD2BF83005DBBCB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				FA493F132CCD14C60088B839 /* Assets.xcassets */,
 				FA493F152CCD14C60088B839 /* Preview Content */,
 				FA493F392CCD18B40088B839 /* WatchManager.swift */,
+				FA8FE1EC2CD2BF83005DBBCB /* SceneDelegate.swift */,
 			);
 			path = HeartRatePoc;
 			sourceTree = "<group>";
@@ -248,6 +251,7 @@
 				FA493F122CCD14C40088B839 /* ContentView.swift in Sources */,
 				FA493F102CCD14C40088B839 /* HeartRatePocApp.swift in Sources */,
 				FA493F3A2CCD18B40088B839 /* WatchManager.swift in Sources */,
+				FA8FE1ED2CD2BF83005DBBCB /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
