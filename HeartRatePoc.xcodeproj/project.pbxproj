@@ -405,6 +405,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HeartRatePoc/Info.plist;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Used to get heart rate of the user";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Used to do updates";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -437,6 +439,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = HeartRatePoc/Info.plist;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Used to get heart rate of the user";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Used to do updates";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -469,6 +473,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "HeartRateMonitor-WatchKit-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "HeartRateMonitor WatchKit";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Used to get teh heart rate of the ser";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Used to update heart rate values";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.vestasleep.HeartRatePoc;
 				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
@@ -502,6 +508,8 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "HeartRateMonitor-WatchKit-Watch-App-Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = "HeartRateMonitor WatchKit";
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Used to get teh heart rate of the ser";
+				INFOPLIST_KEY_NSHealthUpdateUsageDescription = "Used to update heart rate values";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.vestasleep.HeartRatePoc;
 				INFOPLIST_KEY_WKRunsIndependentlyOfCompanionApp = YES;
